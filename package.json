@@ -3,10 +3,16 @@
   "main": "backbone_tastypie/static/js/backbone-tastypie.js",
   "description": "A small compatibility layer to make backbone.js and django-tastypie work together happily.",
   "homepage": "https://github.com/PaulUithol/backbone-tastypie",
-  "keywords": ["backbone", "django", "tastypie", "REST", "compatibility"],
+  "keywords": [
+    "backbone",
+    "django",
+    "tastypie",
+    "REST",
+    "compatibility"
+  ],
   "repository": {
     "type": "git",
-	"url": "https://github.com/PaulUithol/backbone-tastypie.git"
+    "url": "https://github.com/PaulUithol/backbone-tastypie.git"
   },
   "author": "Paul Uithol <https://github.com/PaulUithol>",
   "contributors": "Listed at <https://github.com/PaulUithol/backbone-tastypie/contributors>",
@@ -15,5 +21,5 @@
     "backbone": ">=1.0.0"
   },
   "license": "MIT",
-  "version": "0.2.0"
+  "version": "0.2.0-asa"
 }
